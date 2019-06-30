@@ -1,0 +1,1 @@
+package net.fabricmc.tiny;
